@@ -1,4 +1,4 @@
-# CSCI1102 Discussion Section — Week 4
+#  Discussion Problems Week 4
 
 ## 1. Overview
 
