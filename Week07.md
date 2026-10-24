@@ -1,4 +1,4 @@
-#  Discussion Problems Week __ (fill in week number)
+#  Discussion Problems Week 7
 
 ## Practice Problem 1 - Double Trouble
 
